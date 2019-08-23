@@ -1,0 +1,25 @@
+body, html{
+	height: 100%;
+	margin: 0;
+}
+
+body, html{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#app{
+	background-color: white;
+}
+
+#button{
+	background-color: red;
+	color: white;
+	border: solid 1px red;
+	width: 700px;
+}
+
+form{
+	width: 700px;
+}
