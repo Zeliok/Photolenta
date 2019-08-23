@@ -3,23 +3,13 @@ body, html{
 	margin: 0;
 }
 
-body, html{
+body{
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
 
 #app{
-	background-color: white;
+	background: white;
 }
 
-#button{
-	background-color: red;
-	color: white;
-	border: solid 1px red;
-	width: 700px;
-}
-
-form{
-	width: 700px;
-}
